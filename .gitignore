@@ -1,0 +1,7 @@
+node_modules/*
+Gruntfile.js
+CONTRIBUTING.md
+plugins/*
+platforms/*
+hooks/*
+www/assets/styles/less/*
